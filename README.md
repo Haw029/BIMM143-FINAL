@@ -43,7 +43,7 @@ Lab 10 - halloween candy mini project
 * [Lab 10 - halloween mini project.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169336/Lab.10.-.halloween.mini.project.pdf)
 
 Lab 11 - genome informatics & high throughput sequencing
-*[BIMM143_Forrest_Wang_Lab15_Render.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169337/BIMM143_Forrest_Wang_Lab15_Render.pdf)
+* [BIMM143_Forrest_Wang_Lab15_Render.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169337/BIMM143_Forrest_Wang_Lab15_Render.pdf)
 * [Lab 11 - pt1 rnaseq galaxy.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169338/Lab.11.-.pt1.rnaseq.galaxy.pdf)
 * [Lab 11 - pt2 population analysis.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169342/Lab.11.-.pt2.population.analysis.pdf)
 
