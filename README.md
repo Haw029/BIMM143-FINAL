@@ -2,8 +2,10 @@
 ### This is a page dedicated to the labs and homework projects from Dr.Grant's Intro to Bioinformatics course at UCSD F22
 
 #### The following links are directed to said projects 
-##### For access to the Rstudio files, please refer to my repository as .Rproj files are unable to be uploaded https://github.com/Haw029/BIMM143-FINAL
-
+For access to the Rstudio files, please refer to my repository as .Rproj files are unable to be uploaded 
+```diff
++ https://github.com/Haw029/BIMM143-FINAL
+```
 
 Lab 1 - orientation & alignments
 * [Lab 1 - bioinformatics databases.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169277/Lab.1.-.bioinformatics.databases.pdf)
