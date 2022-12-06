@@ -15,24 +15,24 @@ Lab 2 - sequence alignment fundamentals
 Lab 3 - advanced databases
 * [Lab 3 - advanced database searching.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169307/Lab.3.-.advanced.database.searching.pdf)
 earching
-*[pssm hw.docx](https://github.com/Haw029/BIMM143-FINAL/files/10169308/pssm.hw.docx)
+* [pssm hw.docx](https://github.com/Haw029/BIMM143-FINAL/files/10169308/pssm.hw.docx)
 
 Lab 4 - bioinformatics data analysis with r
-*[EXTRACREDITlab4.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169310/EXTRACREDITlab4.pdf)
-*[Lab 4 - rscript to pdf report.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169311/Lab.4.-.rscript.to.pdf.report.pdf)
+* [EXTRACREDITlab4.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169310/EXTRACREDITlab4.pdf)
+* [Lab 4 - rscript to pdf report.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169311/Lab.4.-.rscript.to.pdf.report.pdf)
 
 Lab 5 - data visualization with ggplot
-*[Lab 5 - data visualization with r.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169321/Lab.5.-.data.visualization.with.r.pdf)
+* [Lab 5 - data visualization with r.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169321/Lab.5.-.data.visualization.with.r.pdf)
 
 Lab 6 - function basics, vectors
-*[lecture6-BIMM143_F20.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169324/lecture6-BIMM143_F20.pdf)
-*[Lab 6 - r functions.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169325/Lab.6.-.r.functions.pdf)
+* [lecture6-BIMM143_F20.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169324/lecture6-BIMM143_F20.pdf)
+* [Lab 6 - r functions.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169325/Lab.6.-.r.functions.pdf)
 
 Lab 7 - introduction to machine learning
-*[Lab 7 - machine learning.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169328/Lab.7.-.machine.learning.pdf)
+* [Lab 7 - machine learning.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169328/Lab.7.-.machine.learning.pdf)
 
 Lab 8 - unsupervised learning mini project
-*[Lab 8 - ml mini project.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169329/Lab.8.-.ml.mini.project.pdf)
+* [Lab 8 - ml mini project.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169329/Lab.8.-.ml.mini.project.pdf)
 
 Lab 9 - structural bioinformatics alphafold
 * [Lab 9 - structural bioinformatics.pdf](https://github.com/Haw029/BIMM143-FINAL/files/10169332/Lab.9.-.structural.bioinformatics.pdf)
